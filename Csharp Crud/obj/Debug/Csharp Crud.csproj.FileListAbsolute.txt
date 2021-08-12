@@ -1,0 +1,20 @@
+c:\users\banks\documents\visual studio 2015\Projects\Csharp Crud\Csharp Crud\bin\Debug\Csharp Crud.exe.config
+c:\users\banks\documents\visual studio 2015\Projects\Csharp Crud\Csharp Crud\bin\Debug\Csharp Crud.exe
+c:\users\banks\documents\visual studio 2015\Projects\Csharp Crud\Csharp Crud\bin\Debug\Csharp Crud.pdb
+c:\users\banks\documents\visual studio 2015\Projects\Csharp Crud\Csharp Crud\bin\Debug\MySql.Data.dll
+c:\users\banks\documents\visual studio 2015\Projects\Csharp Crud\Csharp Crud\bin\Debug\Google.Protobuf.dll
+c:\users\banks\documents\visual studio 2015\Projects\Csharp Crud\Csharp Crud\bin\Debug\Zstandard.Net.dll
+c:\users\banks\documents\visual studio 2015\Projects\Csharp Crud\Csharp Crud\bin\Debug\K4os.Compression.LZ4.Streams.dll
+c:\users\banks\documents\visual studio 2015\Projects\Csharp Crud\Csharp Crud\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\banks\documents\visual studio 2015\Projects\Csharp Crud\Csharp Crud\bin\Debug\Ubiety.Dns.Core.dll
+c:\users\banks\documents\visual studio 2015\Projects\Csharp Crud\Csharp Crud\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+c:\users\banks\documents\visual studio 2015\Projects\Csharp Crud\Csharp Crud\bin\Debug\System.Buffers.dll
+c:\users\banks\documents\visual studio 2015\Projects\Csharp Crud\Csharp Crud\bin\Debug\K4os.Compression.LZ4.dll
+c:\users\banks\documents\visual studio 2015\Projects\Csharp Crud\Csharp Crud\bin\Debug\K4os.Hash.xxHash.dll
+c:\users\banks\documents\visual studio 2015\Projects\Csharp Crud\Csharp Crud\bin\Debug\MySql.Data.xml
+c:\users\banks\documents\visual studio 2015\Projects\Csharp Crud\Csharp Crud\obj\Debug\Csharp Crud.csprojResolveAssemblyReference.cache
+c:\users\banks\documents\visual studio 2015\Projects\Csharp Crud\Csharp Crud\obj\Debug\Csharp_Crud.Form1.resources
+c:\users\banks\documents\visual studio 2015\Projects\Csharp Crud\Csharp Crud\obj\Debug\Csharp_Crud.Properties.Resources.resources
+c:\users\banks\documents\visual studio 2015\Projects\Csharp Crud\Csharp Crud\obj\Debug\Csharp Crud.csproj.GenerateResource.Cache
+c:\users\banks\documents\visual studio 2015\Projects\Csharp Crud\Csharp Crud\obj\Debug\Csharp Crud.exe
+c:\users\banks\documents\visual studio 2015\Projects\Csharp Crud\Csharp Crud\obj\Debug\Csharp Crud.pdb
